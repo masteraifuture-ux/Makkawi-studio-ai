@@ -1,0 +1,27 @@
+{
+  "name": "Makkawi Studio Pro X — المخرج الذكي",
+  "short_name": "Makkawi MX",
+  "description": "استوديو إنتاج فيديو بالذكاء الاصطناعي: Gemini 3.8 للكتابة والصوت وFLUX للصور",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#07090e",
+  "theme_color": "#07090e",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
